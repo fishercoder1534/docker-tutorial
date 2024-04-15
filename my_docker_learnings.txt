@@ -1,0 +1,2 @@
+1. When you run `docker ps`, it'll only list all active/up container IDs, this means only when your container is active and up running, when your application/container finishes running, it will not show up in `docker ps` command;
+2. If you print out something in your application, it will only print out to the console at the end of your application run;
