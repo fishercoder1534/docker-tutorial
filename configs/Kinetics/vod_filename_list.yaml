@@ -1,0 +1,4 @@
+INFERENCE:
+  VIDEO_FILENAME_LIST: [
+    [ 'prod/negative/imdb/mp4/005d596c-e636-4fcc-b06b-bc90b7b85414-video-audio-merged-Reacher-on-PV-12-mins.mp4', { 'bbox': [ 101, 73, 1717, 970 ] } ],
+  ]
